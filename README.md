@@ -18,3 +18,4 @@ Final Project Report and Presentation. (Application: On-Device Image Classificat
 ### Support and Contact
 
 If you have questions regarding this project, reach out to me at [@akshitbhalla13](https://goo.gl/kMku1B) on Twitter. [Personal Website](https://akshitbhalla.github.io).
+a
