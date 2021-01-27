@@ -2,7 +2,7 @@
 
 ### Phase 1
 
-Details about the ARMv7 architecture and differences with the 8051 architecture. Also lists information about the Pico-i.MX7D hardware.
+Given below has details about the ARMv7 architecture and differences with the 8051 architecture. It also lists information about the Pico-i.MX7D hardware.
 
 [Phase 1 PDF](Phase_1.pdf)
 
